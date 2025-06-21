@@ -1,0 +1,385 @@
+id,phrase,language,sentiment,emotion,emotion_intensity,intent,context,audio_path,is_regional
+1,On cloud nine,en,Positive,Joy,High,Self-Expression,idiom,audio/en/1.wav,No
+2,Lump in your throat,en,Negative,Sadness,Moderate,Self-Expression,idiom,audio/en/2.wav,No
+3,Feeling blue,en,Negative,Sadness,Mild,Self-Expression,idiom,audio/en/3.wav,No
+4,Reduce to tears,en,Negative,Sadness,High,Trigger,everyday expression,audio/en/4.wav,No
+5,On pins and needles,en,Negative,Anxiety,Moderate,Self-Expression,idiom,audio/en/5.wav,No
+6,Guay,es,Positive,Joy,Moderate,Self-Expression,slang,audio/es/6.wav,No
+7,Estar en las nubes,es,Neutral,Calm / Distracted,Mild,Self-Expression,idiom,audio/es/7.wav,No
+8,Tomar el pelo,es,Positive,Humor,Moderate,Self-Expression,idiom,audio/es/8.wav,No
+9,¡Rompe todo!,es,Positive,Excitement,High,Encouragement,everyday expression,audio/es/9.wav,No
+10,¡Dales con todo!,es,Positive,Motivation,High,Encouragement,everyday expression,audio/es/10.wav,No
+11,속상해,kr,Negative,Upset,Moderate,Self-Expression,everyday expression,audio/kr/11.wav,No
+12,화이팅,kr,Positive,Motivation,High,Encouragement,slang,audio/kr/12.wav,No
+13,대박,kr,Positive,Excitement,High,Self-Expression,slang,audio/kr/13.wav,No
+14,괜찮아요,kr,Neutral,Calm / Reassurance,Mild,Self-Expression,everyday expression,audio/kr/14.wav,No
+15,몰라요,kr,Neutral,Indifferent / Confused,Mild,Self-Expression,everyday expression,audio/kr/15.wav,No
+16,سعيد,ar,Positive,Joy,Moderate,Self-Expression,everyday expression,audio/ar/16.wav,No
+17,حزين,ar,Negative,Sadness,Moderate,Self-Expression,everyday expression,audio/ar/17.wav,No
+18,غاضب,ar,Negative,Anger,High,Self-Expression,everyday expression,audio/ar/18.wav,No
+19,خوف,ar,Negative,Fear,Moderate,Self-Expression,everyday expression,audio/ar/19.wav,No
+20,زهقان,ar,Neutral,Boredom,Mild,Self-Expression,slang,audio/ar/20.wav,No
+21,我很高兴,zh,Positive,Joy,Moderate,Self-Expression,everyday expression,audio/zh/21.wav,No
+22,我很伤心,zh,Negative,Sadness,Moderate,Self-Expression,everyday expression,audio/zh/22.wav,No
+23,我非常开心,zh,Positive,Joy,High,Self-Expression,everyday expression,audio/zh/23.wav,No
+24,兴奋,zh,Positive,Excitement,High,Self-Expression,everyday expression,audio/zh/24.wav,No
+25,失望,zh,Negative,Disappointment,Moderate,Self-Expression,everyday expression,audio/zh/25.wav,No
+26,Estar de bajón,es,Negative,Sadness,Mild,Self-Expression,idiom,audio/es/26.wav,No
+27,Estar bajoneado,es,Negative,Sadness,Mild,Self-Expression,idiom/slang,audio/es/27.wav,Yes
+28,기분이 안 좋아요,kr,Negative,Sadness,Mild,Self-Expression,everyday expression,audio/kr/28.wav,No
+29,기분이 꿀꿀해요,kr,Negative,Sadness,Mild,Self-Expression,idiom/slang,audio/kr/29.wav,Yes
+30,أشعرُ بالضيق,ar,Negative,Sadness,Mild,Self-Expression,everyday expression,audio/ar/30.wav,No
+31,مخنوق,ar,Negative,Sadness,Mild,Self-Expression,slang/colloquial,audio/ar/31.wav,Yes
+32,我有点难过,zh,Negative,Sadness,Mild,Self-Expression,everyday expression,audio/zh/32.wav,No
+33,情绪低落,zh,Negative,Sadness,Mild,Self-Expression,formal/literary,audio/zh/33.wav,No
+34,心情不好,zh,Negative,Sadness,Mild,Self-Expression,everyday expression,audio/zh/34.wav,No
+35,心情压抑,zh,Negative,Sadness,Moderate,Self-Expression,literary,audio/zh/35.wav,No
+36,Estoy que no quepo en mí de la alegría,es,Positive,Joy,High,Self-Expression,idiom,audio/es/36.wav,No
+37,Estoy loco de alegría,es,Positive,Joy,High,Self-Expression,everyday expression,audio/es/37.wav,No
+38,Estar en el séptimo cielo,es,Positive,Joy,High,Self-Expression,idiom,audio/es/38.wav,No
+39,Estar loco de contento,es,Positive,Joy,High,Self-Expression,colloquial,audio/es/39.wav,No
+40,طاير من الفرحه,ar,Positive,Joy,High,Self-Expression,slang,audio/ar/40.wav,Yes
+41,حاسس إني في سابع سما,ar,Positive,Joy,High,Self-Expression,idiom,audio/ar/41.wav,Yes
+42,하늘을 나는 기분,kr,Positive,Joy,High,Self-Expression,idiom,audio/kr/42.wav,No
+43,기분이 너무 좋다,kr,Positive,Joy,High,Self-Expression,everyday expression,audio/kr/43.wav,No
+44,欣喜若狂,zh,Positive,Joy,High,Self-Expression,idiom,audio/zh/44.wav,No
+45,非常高兴,zh,Positive,Joy,High,Self-Expression,everyday expression,audio/zh/45.wav,No
+46,De bajón,es,Negative,Sadness,Moderate,Self-Expression,everyday expression,audio/es/46.wav,No
+47,Con el ánimo por el suelo,es,Negative,Sadness,Moderate,Self-Expression,idiom,audio/es/47.wav,No
+48,في مزاج سيئ,ar,Negative,Sadness,Moderate,Self-Expression,everyday expression,audio/ar/48.wav,No
+49,مكسور الخاطر,ar,Negative,Sadness,Moderate,Self-Expression,idiom,audio/ar/49.wav,No
+50,기분이 울적하다,kr,Negative,Sadness,Moderate,Self-Expression,everyday expression,audio/kr/50.wav,No
+51,우울하다,kr,Negative,Sadness,Moderate,Self-Expression,formal,audio/kr/51.wav,No
+52,情绪低落,zh,Negative,Sadness,Moderate,Self-Expression,formal,audio/zh/52.wav,No
+53,闷闷不乐,zh,Negative,Sadness,Moderate,Self-Expression,idiom,audio/zh/53.wav,No
+54,Estar de malas pulgas,es,Negative,Anger,Moderate,Self-Expression,idiom,audio/es/54.wav,No
+55,Saltarle la chispa a alguien,es,Negative,Anger,Moderate,Self-Expression,everyday idiom,audio/es/55.wav,No
+56,منزعج جداً,ar,Negative,Anger,Moderate,Self-Expression,everyday expression,audio/ar/56.wav,No
+57,غاضب جداً,ar,Negative,Anger,Moderate,Self-Expression,everyday expression,audio/ar/57.wav,No
+58,발끈하다,kr,Negative,Anger,Moderate,Self-Expression,idiom,audio/kr/58.wav,No
+59,화내다,kr,Negative,Anger,Moderate,Self-Expression,everyday expression,audio/kr/59.wav,No
+60,怒发冲冠,zh,Negative,Anger,Moderate,Self-Expression,idiom,audio/zh/60.wav,No
+61,气得发抖,zh,Negative,Anger,Moderate,Self-Expression,vivid expression,audio/zh/61.wav,No
+62,Estar en ascuas,es,Negative,Anxiety,Moderate,Self-Expression,idiom,audio/es/62.wav,No
+63,Estar con los nervios de punta,es,Negative,Anxiety,Moderate,Self-Expression,colloquial,audio/es/63.wav,No
+64,أشعر بالتوتر,ar,Negative,Anxiety,Moderate,Self-Expression,everyday expression,audio/ar/64.wav,No
+65,أشعر أني على أعصابي,ar,Negative,Anxiety,Moderate,Self-Expression,idiomatic,audio/ar/65.wav,No
+66,초조해요,kr,Negative,Anxiety,Moderate,Self-Expression,everyday expression,audio/kr/66.wav,No
+67,마음이 불안해요,kr,Negative,Anxiety,Moderate,Self-Expression,emotional,audio/kr/67.wav,No
+68,如坐针毡,zh,Negative,Anxiety,Moderate,Self-Expression,idiom,audio/zh/68.wav,No
+69,心神不宁,zh,Negative,Anxiety,Moderate,Self-Expression,formal,audio/zh/69.wav,No
+70,Un nudo en la garganta,es,Negative,Sadness,High,Self-Expression,idiom,audio/es/70.wav,No
+71,A punto de llorar,es,Negative,Sadness,High,Self-Expression,emotional,audio/es/71.wav,No
+72,غصة في الحلق,ar,Negative,Sadness,High,Self-Expression,idiom,audio/ar/72.wav,No
+73,على وشك البكاء,ar,Negative,Sadness,High,Self-Expression,emotional,audio/ar/73.wav,No
+74,목이 메다,kr,Negative,Sadness,High,Self-Expression,idiom,audio/kr/74.wav,No
+75,울컥하다,kr,Negative,Sadness,High,Self-Expression,emotional,audio/kr/75.wav,No
+76,喉咙哽咽,zh,Negative,Sadness,High,Self-Expression,idiom,audio/zh/76.wav,No
+77,泪水在眼眶打转,zh,Negative,Sadness,High,Self-Expression,poetic,audio/zh/77.wav,No
+78,Estar triste,es,Negative,Sadness,Mild,Self-Expression,direct,audio/es/78.wav,No
+79,Sentirse decaído,es,Negative,Sadness,Mild,Self-Expression,colloquial,audio/es/79.wav,No
+80,Tener el ánimo bajo,es,Negative,Sadness,Mild,Self-Expression,idiomatic,audio/es/80.wav,No
+81,أشعر بالحزن,ar,Negative,Sadness,Mild,Self-Expression,everyday expression,audio/ar/81.wav,No
+82,مزاجي سيء,ar,Negative,Sadness,Mild,Self-Expression,casual,audio/ar/82.wav,No
+83,مش على بعضي,ar,Negative,Sadness,Mild,Self-Expression,colloquial egyptian,audio/ar/83.wav,Yes
+84,우울해요,kr,Negative,Sadness,Mild,Self-Expression,common,audio/kr/84.wav,No
+85,기분이 안 좋아요,kr,Negative,Sadness,Mild,Self-Expression,casual,audio/kr/85.wav,No
+86,기운이 없어요,kr,Negative,Sadness,Mild,Self-Expression,emotional/physical,audio/kr/86.wav,No
+87,心情不好,zh,Negative,Sadness,Mild,Self-Expression,everyday expression,audio/zh/87.wav,No
+88,我有点难过,zh,Negative,Sadness,Mild,Self-Expression,conversational,audio/zh/88.wav,No
+89,我情绪低落,zh,Negative,Sadness,Mild,Self-Expression,slightly formal,audio/zh/89.wav,No
+90,Me hizo llorar,es,Negative,Sadness,High,Self-Expression,everyday expression,audio/es/90.wav,No
+91,Me rompió en llanto,es,Negative,Sadness,High,Self-Expression,emotional,audio/es/91.wav,No
+92,جعلني أبكي,ar,Negative,Sadness,High,Self-Expression,everyday expression,audio/ar/92.wav,No
+93,انفجرت في البكاء,ar,Negative,Sadness,High,Self-Expression,strong trigger,audio/ar/93.wav,No
+94,눈물이 났어요,kr,Negative,Sadness,High,Self-Expression,everyday expression,audio/kr/94.wav,No
+95,눈물을 쏟았어요,kr,Negative,Sadness,High,Self-Expression,strong expression,audio/kr/95.wav,No
+96,我哭了,zh,Negative,Sadness,High,Self-Expression,simple/direct,audio/zh/96.wav,No
+97,让我泪流满面,zh,Negative,Sadness,High,Self-Expression,poetic/emotional,audio/zh/97.wav,No
+98,خلاني أعيّط,ar,Negative,Sadness,High,Self-Expression,colloquial egyptian,audio/ar/98.wav,Yes
+99,عيّطت من كتر الزعل,ar,Negative,Sadness,High,Self-Expression,colloquial egyptian,audio/ar/99.wav,Yes
+100,De capa caída,es,Negative,Sadness,Moderate,Self-Expression,idiomatic,audio/es/100.wav,No
+101,Con el ánimo por el suelo,es,Negative,Sadness,Moderate,Self-Expression,expressive idiom,audio/es/101.wav,No
+102,مكسور الخاطر,ar,Negative,Sadness,Moderate,Self-Expression,fusha,audio/ar/103.wav,No
+103,في مزاج سيئ,ar,Negative,Sadness,Moderate,Self-Expression,neutral everyday,audio/ar/104.wav,No
+104,مضايق,ar,Negative,Sadness,Moderate,Self-Expression,very common,audio/ar/105.wav,No
+105,حاسس إن الدنيا سودة,ar,Negative,Sadness,High,Self-Expression,egyptian dialect,audio/ar/106.wav,Yes
+106,우울해요,kr,Negative,Sadness,Moderate,Self-Expression,emotionally intense,audio/kr/108.wav,No
+107,무기력해요,kr,Negative,Sadness,Moderate,Self-Expression,mental/emotional tired,audio/kr/109.wav,No
+108,情绪低落,zh,Negative,Sadness,Moderate,Self-Expression,formal/clinical,audio/zh/110.wav,No
+109,我心情很差,zh,Negative,Sadness,Moderate,Self-Expression,conversational,audio/zh/111.wav,No
+110,我很沮丧,zh,Negative,Sadness,Moderate,Self-Expression,frustration/sadness,audio/zh/112.wav,No
+111,Estar en ascuas,es,Negative,Anxiety,High,Self-Expression,idiomatic,audio/es/113.wav,No
+112,Estar nervioso/a,es,Negative,Anxiety,Moderate,Self-Expression,everyday expression,audio/es/114.wav,No
+113,Tener los nervios de punta,es,Negative,Anxiety,High,Self-Expression,emotional tension,audio/es/115.wav,No
+114,متوتر جداً,ar,Negative,Anxiety,High,Self-Expression,everyday expression,audio/ar/116.wav,No
+115,قلقان / قلقة,ar,Negative,Anxiety,Moderate,Self-Expression,colloquial,audio/ar/117.wav,No
+116,حاسس إني واقف على شوك,ar,Negative,Anxiety,High,Self-Expression,idiomatic (dialectal),audio/ar/118.wav,Yes
+117,초조해요,kr,Negative,Anxiety,High,Self-Expression,anxious,audio/kr/119.wav,No
+118,긴장돼요,kr,Negative,Anxiety,Moderate,Self-Expression,nervous,audio/kr/120.wav,No
+119,안절부절 못해요,kr,Negative,Anxiety,High,Self-Expression,strong idiom,audio/kr/121.wav,No
+120,我很紧张,zh,Negative,Anxiety,Moderate,Self-Expression,common,audio/zh/122.wav,No
+121,我很焦虑,zh,Negative,Anxiety,High,Self-Expression,clinical,audio/zh/123.wav,No
+122,我坐立不安,zh,Negative,Anxiety,High,Self-Expression,idiomatic,audio/zh/124.wav,No
+123,جامد,ar,Positive,Joy,Moderate,Self-Expression,egyptian slang,audio/ar/125.wav,Yes
+124,حلو قوي,ar,Positive,Joy,Moderate,Self-Expression,colloquial arabic,audio/ar/126.wav,Yes
+125,تحفة,ar,Positive,Joy,Moderate,Self-Expression,youth slang,audio/ar/127.wav,Yes
+126,멋지다!,kr,Positive,Joy,Moderate,Self-Expression,slang,audio/kr/128.wav,No
+127,짱이야!,kr,Positive,Joy,Moderate,Self-Expression,teen/youth slang,audio/kr/129.wav,No
+128,太棒了！,zh,Positive,Joy,Moderate,Self-Expression,neutral praise,audio/zh/130.wav,No
+129,酷毙了！,zh,Positive,Joy,Moderate,Self-Expression,youth slang,audio/zh/131.wav,No
+130,牛！,zh,Positive,Joy,Moderate,Self-Expression,slang (china),audio/zh/132.wav,No
+131,سرحان,ar,Neutral,Distracted,Mild,Self-Expression,common,audio/ar/133.wav,No
+132,شارد الذهن,ar,Neutral,Distracted,Mild,Self-Expression,fusha,audio/ar/134.wav,No
+133,أنا في عالم تاني,ar,Neutral,Distracted,Mild,Self-Expression,dialect (egyptian),audio/ar/135.wav,Yes
+134,정신이 딴 데 가 있다,kr,Neutral,Distracted,Mild,Self-Expression,idiomatic,audio/kr/137.wav,No
+135,心不在焉,zh,Neutral,Distracted,Mild,Self-Expression,formal idiom,audio/zh/139.wav,No
+136,走神了,zh,Neutral,Distracted,Mild,Self-Expression,conversational,audio/zh/140.wav,No
+137,بيهزر معايا,ar,Positive,Humor,Moderate,Self-Expression,slang/casual,audio/ar/142.wav,Yes
+138,بيشتغلني,ar,Positive,Humor,Moderate,Self-Expression,slang/sarcastic,audio/ar/143.wav,Yes
+139,يضحك عليا,ar,Positive,Humor,Moderate,Self-Expression,colloquial/ironic,audio/ar/144.wav,Yes
+140,장난해?,kr,Positive,Humor,Moderate,Self-Expression,youth slang,audio/kr/145.wav,No
+141,놀리는 거야?,kr,Positive,Humor,Moderate,Self-Expression,common,audio/kr/146.wav,No
+142,농담이야,kr,Positive,Humor,Mild,Self-Expression,neutral,audio/kr/147.wav,No
+143,你逗我呢？,zh,Positive,Humor,Moderate,Self-Expression,slang,audio/zh/148.wav,No
+144,开玩笑的,zh,Positive,Humor,Mild,Self-Expression,common phrase,audio/zh/149.wav,No
+145,你在耍我吗？,zh,Positive,Humor,Moderate,Self-Expression,slightly sarcastic,audio/zh/150.wav,No
+146,بيهرّج,ar,Positive,Humor,Moderate,Self-Expression,common/expressive slang,audio/ar/151.wav,Yes
+147,كسر الدنيا,ar,Positive,Excitement,High,Encouragement,slang/popular,audio/ar/152.wav,Yes
+148,فرّجهم الشغل الصح,ar,Positive,Excitement,High,Encouragement,motivational,audio/ar/153.wav,Yes
+149,اضرب ضربتك,ar,Positive,Excitement,High,Encouragement,egyptian dialect,audio/ar/154.wav,Yes
+150,힘내!,kr,Positive,Excitement,High,Encouragement,everyday expression,audio/kr/155.wav,No
+151,끝장 내자!,kr,Positive,Excitement,High,Encouragement,slang/assertive,audio/kr/156.wav,No
+152,가자!,kr,Positive,Excitement,High,Encouragement,slang/energizing,audio/kr/157.wav,No
+153,加油！,zh,Positive,Excitement,High,Encouragement,standard motivational,audio/zh/158.wav,No
+154,上吧！,zh,Positive,Excitement,High,Encouragement,simple/direct,audio/zh/160.wav,No
+155,هاته من الآخر,ar,Positive,Motivation,High,Encouragement,egyptian slang,audio/ar/161.wav,Yes
+156,اديهم بالجامد,ar,Positive,Motivation,High,Encouragement,aggressive slang,audio/ar/162.wav,Yes
+157,끝까지 해봐!,kr,Positive,Motivation,High,Encouragement,direct/bold,audio/kr/164.wav,No
+158,있는 힘 다해!,kr,Positive,Motivation,High,Encouragement,strong encouragement,audio/kr/165.wav,No
+159,제대로 보여줘!,kr,Positive,Motivation,High,Encouragement,motivational phrase,audio/kr/166.wav,No
+160,全力以赴！,zh,Positive,Motivation,High,Encouragement,standard motivational,audio/zh/167.wav,No
+161,狠狠干一场！,zh,Positive,Motivation,High,Encouragement,slang/intense,audio/zh/168.wav,No
+162,让他们看看你的厉害！,zh,Positive,Motivation,High,Encouragement,bold/expressive,audio/zh/169.wav,No
+163,وريهم العجب,ar,Positive,Motivation,High,Encouragement,show them something amazing (alt.),audio/ar/170.wav,Yes
+164,Estoy molesto/a,es,Negative,Upset,Moderate,Self-Expression,neutral,audio/es/171.wav,No
+165,Estoy dolido/a,es,Negative,Hurt,Moderate,Self-Expression,emotional hurt,audio/es/172.wav,No
+166,Estoy decepcionado/a,es,Negative,Disappointed,Moderate,Self-Expression,mild variation,audio/es/173.wav,No
+167,زعلان,ar,Negative,Upset,Moderate,Self-Expression,most used,audio/ar/174.wav,No
+168,مش مبسوط,ar,Negative,Not happy,Mild,Self-Expression,dialectal,audio/ar/176.wav,Yes
+169,我很难过,zh,Negative,Sad,Moderate,Self-Expression,standard,audio/zh/177.wav,No
+170,我有点不舒服,zh,Negative,Upset,Mild,Self-Expression,mild/polite,audio/zh/178.wav,No
+171,我心里不太舒服,zh,Negative,Upset,Moderate,Self-Expression,emotionally specific,audio/zh/179.wav,No
+172,¡Tú puedes!,es,Positive,Motivation,High,Encouragement,personal cheer,audio/es/181.wav,No
+173,¡Vamos!,es,Positive,Motivation,High,Encouragement,group/universal,audio/es/182.wav,No
+174,¡Ánimo!,es,Positive,Motivation,High,Encouragement,stress support,audio/es/183.wav,No
+175,شد حيلك,ar,Positive,Motivation,High,Encouragement,common encouragement,audio/ar/184.wav,No
+176,يلا نقدر,ar,Positive,Motivation,High,Encouragement,collective action,audio/ar/185.wav,No
+177,أنت قدها,ar,Positive,Motivation,High,Encouragement,boost confidence,audio/ar/186.wav,No
+178,加油！,zh,Positive,Motivation,High,Encouragement,standard chinese cheer,audio/zh/187.wav,No
+179,你可以的！,zh,Positive,Motivation,High,Encouragement,personal cheer,audio/zh/188.wav,No
+180,坚持下去！,zh,Positive,Motivation,High,Encouragement,resilience cheer,audio/zh/189.wav,No
+181,¡Increíble!,es,Positive,Excitement,High,Self-Expression,standard,audio/es/190.wav,No
+182,¡Qué pasada!,es,Positive,Excitement,High,Self-Expression,spanish slang,audio/es/191.wav,No
+183,جامد جداً,ar,Positive,Excitement,High,Self-Expression,egyptian dialect,audio/ar/193.wav,Yes
+184,ده رهيب,ar,Positive,Excitement,High,Self-Expression,informal,audio/ar/194.wav,Yes
+185,太棒了！,zh,Positive,Excitement,High,Self-Expression,standard mandarin,audio/zh/196.wav,No
+186,真厉害！,zh,Positive,Admiration,Moderate,Self-Expression,slightly formal,audio/zh/198.wav,No
+187,Estoy bien,es,Neutral,Calm,Mild,Self-Expression,standard,audio/es/199.wav,No
+188,Todo bien,es,Neutral,Calm,Mild,Self-Expression,informal,audio/es/200.wav,No
+189,No pasa nada,es,Neutral,Reassurance,Mild,Comforting,very common,audio/es/201.wav,No
+190,أنا بخير,ar,Neutral,Calm,Mild,Self-Expression,standard arabic,audio/ar/202.wav,No
+191,مافيش حاجة,ar,Neutral,Reassurance,Mild,Comforting,egyptian/informal,audio/ar/203.wav,Yes
+192,كل شيء تمام,ar,Neutral,Reassurance,Mild,Comforting,neutral tone,audio/ar/204.wav,No
+193,没关系,zh,Neutral,Reassurance,Mild,Comforting,widely used,audio/zh/206.wav,No
+194,一切都好,zh,Neutral,Calm,Mild,Reassurance,slightly formal,audio/zh/207.wav,No
+195,No lo sé,es,Neutral,Indifference,Mild,Self-Expression,neutral,audio/es/208.wav,No
+196,Ni idea,es,Neutral,Indifference,Mild,Self-Expression,informal,audio/es/209.wav,No
+197,Estoy confundido/a,es,Neutral,Confusion,Mild,Self-Expression,emotional,audio/es/210.wav,No
+198,مش عارف / مش عارفة,ar,Neutral,Indifference,Mild,Self-Expression,egyptian/levantine,audio/ar/211.wav,Yes
+199,ما بعرف,ar,Neutral,Indifference,Mild,Self-Expression,levantine,audio/ar/212.wav,Yes
+200,أنا محتار / محتارة,ar,Neutral,Confusion,Mild,Self-Expression,emotional,audio/ar/213.wav,No
+201,我不知道,zh,Neutral,Indifference,Mild,Self-Expression,standard,audio/zh/214.wav,No
+202,我搞不清楚,zh,Neutral,Confusion,Mild,Self-Expression,slightly emotional,audio/zh/215.wav,No
+203,我有点迷糊,zh,Neutral,Confusion,Mild,Self-Expression,casual tone,audio/zh/216.wav,No
+204,سعيد,ar,Positive,Joy,Moderate,Self-Expression,standard,audio/ar/217.wav,No
+205,مبسوط,ar,Positive,Joy,Moderate,Self-Expression,egyptian,audio/ar/218.wav,Yes
+206,فرحان,ar,Positive,Joy,Moderate,Self-Expression,levantine/north africa,audio/ar/219.wav,Yes
+207,Feliz,es,Positive,Joy,Moderate,Self-Expression,standard,audio/es/220.wav,No
+208,Contento/a,es,Positive,Joy,Mild,Self-Expression,slightly formal,audio/es/221.wav,No
+209,행복해요,kr,Positive,Joy,Moderate,Self-Expression,standard/polite,audio/kr/223.wav,No
+210,즐거워요,kr,Positive,Joy,Moderate,Self-Expression,playful/fun,audio/kr/225.wav,No
+211,我很高兴,zh,Positive,Joy,Moderate,Self-Expression,standard,audio/zh/226.wav,No
+212,我很快乐,zh,Positive,Joy,Moderate,Self-Expression,slightly more cheerful,audio/zh/227.wav,No
+213,我很满意,zh,Positive,Joy,Mild,Self-Expression,calm/contented,audio/zh/228.wav,No
+214,حزين,ar,Negative,Sadness,Moderate,Self-Expression,standard,audio/ar/229.wav,No
+215,زعلان,ar,Negative,Sadness,Mild,Self-Expression,dialect,audio/ar/230.wav,Yes
+216,مش مبسوط,ar,Negative,Sadness,Mild,Self-Expression,informal,audio/ar/231.wav,Yes
+217,Triste,es,Negative,Sadness,Moderate,Self-Expression,standard,audio/es/232.wav,No
+218,Deprimido/a,es,Negative,Sadness,High,Self-Expression,strong,audio/es/233.wav,No
+219,Con el ánimo bajo,es,Negative,Sadness,Mild,Self-Expression,descriptive,audio/es/234.wav,No
+220,슬퍼요,kr,Negative,Sadness,Moderate,Self-Expression,standard,audio/kr/235.wav,No
+221,우울해요,kr,Negative,Sadness,High,Self-Expression,depressive context,audio/kr/236.wav,No
+222,기분이 안 좋아요,kr,Negative,Sadness,Mild,Self-Expression,indirect,audio/kr/237.wav,No
+223,我很伤心,zh,Negative,Sadness,Moderate,Self-Expression,standard,audio/zh/238.wav,No
+224,我不开心,zh,Negative,Sadness,Mild,Self-Expression,informal,audio/zh/239.wav,No
+225,我很难过,zh,Negative,Sadness,Moderate,Self-Expression,formal,audio/zh/240.wav,No
+226,غاضب,ar,Negative,Anger,High,Self-Expression,formal,audio/ar/241.wav,No
+227,متضايق,ar,Negative,Anger,Moderate,Self-Expression,common everyday,audio/ar/242.wav,No
+228,مستفز,ar,Negative,Anger,High,Self-Expression,irritated,audio/ar/243.wav,No
+229,مقهور,ar,Negative,Anger,High,Self-Expression,dialect/inner rage,audio/ar/244.wav,Yes
+230,Enojado/a,es,Negative,Anger,Moderate,Self-Expression,standard,audio/es/245.wav,No
+231,Furioso/a,es,Negative,Anger,High,Self-Expression,strong,audio/es/246.wav,No
+232,我火大了,zh,Negative,Anger,High,Self-Expression,slang,audio/zh/252.wav,No
+233,我被气到了,zh,Negative,Anger,Moderate,Self-Expression,triggered/provoked,audio/zh/253.wav,No
+234,خوف,ar,Negative,Fear,Moderate,Self-Expression,formal noun,audio/ar/254.wav,No
+235,أنا خايف / خايفة,ar,Negative,Fear,Moderate,Self-Expression,common speech,audio/ar/255.wav,No
+236,قلقان / قلقانة,ar,Negative,Fear,Mild,Self-Expression,emotional worry,audio/ar/256.wav,No
+237,Tengo miedo,es,Negative,Fear,Moderate,Self-Expression,standard,audio/es/258.wav,No
+238,Estoy asustado/a,es,Negative,Fear,Moderate,Self-Expression,more expressive,audio/es/259.wav,No
+239,Estoy aterrado/a,es,Negative,Fear,High,Self-Expression,stronger tone,audio/es/260.wav,No
+240,我好紧张,zh,Negative,Fear,Mild,Self-Expression,nervous tension,audio/zh/265.wav,No
+241,我吓坏了,zh,Negative,Fear,High,Self-Expression,scared to death,audio/zh/266.wav,No
+242,واقع في جلده من الخوف,ar,Negative,Fear,High,Self-Expression,egyptian idiom,audio/ar/267.wav,Yes
+243,مرعوب أوي,ar,Negative,Fear,High,Self-Expression,dialect,audio/ar/268.wav,Yes
+244,خايف جداً,ar,Negative,Fear,High,Self-Expression,formal,audio/ar/269.wav,No
+245,زهقان,ar,Neutral,Boredom,Mild,Self-Expression,everyday expression,audio/ar/270.wav,No
+246,طفشان,ar,Neutral,Boredom,Mild,Self-Expression,dialect (gulf),audio/ar/271.wav,Yes
+247,حاسس بملل,ar,Neutral,Boredom,Mild,Self-Expression,neutral/formal,audio/ar/272.wav,No
+248,زهقت أوي,ar,Neutral,Boredom,Moderate,Self-Expression,dialect,audio/ar/273.wav,Yes
+249,Estoy aburrido/a,es,Neutral,Boredom,Mild,Self-Expression,common,audio/es/274.wav,No
+250,Estoy harto/a,es,Neutral,Boredom,Moderate,Self-Expression,frustration,audio/es/275.wav,No
+251,Me aburro mucho,es,Neutral,Boredom,Moderate,Self-Expression,casual,audio/es/276.wav,No
+252,심심해요,kr,Neutral,Boredom,Mild,Self-Expression,polite,audio/kr/277.wav,No
+253,지루해요,kr,Neutral,Boredom,Mild,Self-Expression,polite,audio/kr/278.wav,No
+254,너무 심심해요,kr,Neutral,Boredom,Moderate,Self-Expression,stronger tone,audio/kr/279.wav,No
+255,我很无聊,zh,Neutral,Boredom,Mild,Self-Expression,standard,audio/zh/280.wav,No
+256,我烦死了,zh,Neutral,Boredom,Moderate,Self-Expression,frustrated/slang,audio/zh/281.wav,No
+257,无聊透了,zh,Neutral,Boredom,High,Self-Expression,slang,audio/zh/282.wav,No
+258,طهقان,ar,Neutral,Boredom,Moderate,Self-Expression,dialect (egyptian),audio/ar/283.wav,Yes
+259,زهقت طحن,ar,Neutral,Boredom,High,Self-Expression,slang,audio/ar/284.wav,Yes
+260,أنا تمام,ar,Neutral,Calm,Mild,Self-Expression,everyday expression,audio/ar/285.wav,No
+261,كويس / كويسة,ar,Neutral,Contentment,Mild,Self-Expression,dialect (egyptian),audio/ar/286.wav,Yes
+262,كل حاجة تمام,ar,Neutral,Reassurance,Mild,Self-Expression,reassuring,audio/ar/287.wav,No
+263,الحمد لله,ar,Neutral,Calm/Gratitude,Mild,Self-Expression,faith-based,audio/ar/288.wav,No
+264,Estoy bien,es,Neutral,Contentment,Mild,Self-Expression,casual,audio/es/289.wav,No
+265,Todo bien,es,Neutral,Reassurance,Mild,Self-Expression,reassuring,audio/es/290.wav,No
+266,Más o menos,es,Neutral,Indifference,Mild,Self-Expression,honest/casual,audio/es/291.wav,No
+267,괜찮아요,kr,Neutral,Reassurance,Mild,Self-Expression,casual/polite,audio/kr/292.wav,No
+268,잘 지내고 있어요,kr,Neutral,Contentment,Mild,Self-Expression,positive,audio/kr/293.wav,No
+269,그럭저럭이에요,kr,Neutral,Indifference,Mild,Self-Expression,neutral/casual,audio/kr/294.wav,No
+270,我很好,zh,Neutral,Calm/Positive,Mild,Self-Expression,formal/friendly,audio/zh/295.wav,No
+271,还行,zh,Neutral,Reassurance,Mild,Self-Expression,casual,audio/zh/296.wav,No
+272,马马虎虎,zh,Neutral,Indifference,Mild,Self-Expression,idiomatic,audio/zh/297.wav,No
+273,Estoy agobiado,es,Negative,Overwhelmed,High,Self-Expression,everyday expression,audio/es/298.wav,No
+274,Me siento atrapado,es,Negative,Overwhelmed,High,Self-Expression,emotional sharing,audio/es/299.wav,No
+275,Estoy hasta el cuello,es,Negative,Overwhelmed,High,Self-Expression,idiomatic,audio/es/300.wav,No
+276,Me siento asfixiado,es,Negative,Overwhelmed,High,Self-Expression,emotional distress,audio/es/301.wav,No
+277,답답해요,kr,Negative,Overwhelmed,High,Self-Expression,casual/emotional,audio/kr/302.wav,No
+278,숨막혀요,kr,Negative,Overwhelmed,High,Self-Expression,casual/emotional,audio/kr/303.wav,No
+279,너무 힘들어요,kr,Negative,Exhausted,High,Self-Expression,broader emotional,audio/kr/304.wav,No
+280,我喘不过气来,zh,Negative,Overwhelmed,High,Self-Expression,mental stress,audio/zh/305.wav,No
+281,我快崩溃了,zh,Negative,Breakdown,High,Self-Expression,emotional stress,audio/zh/306.wav,No
+282,我很压抑,zh,Negative,Suppressed,High,Self-Expression,depression/stress,audio/zh/307.wav,No
+283,Estoy harto de todo,es,Negative,Burnout,High,Self-Expression,emotional overload,audio/es/308.wav,No
+284,Estoy cansado de la vida,es,Negative,Hopelessness,High,Self-Expression,deep distress,audio/es/309.wav,No
+285,No aguanto más,es,Negative,Breakdown,High,Self-Expression,emotional outcry,audio/es/310.wav,No
+286,Estoy al límite,es,Negative,Exhaustion,High,Self-Expression,burnout/stress,audio/es/311.wav,No
+287,진짜 지쳤어요,kr,Negative,Exhaustion,High,Self-Expression,emotional fatigue,audio/kr/312.wav,No
+288,더는 못 하겠어요,kr,Negative,Breakdown,High,Self-Expression,collapsing,audio/kr/313.wav,No
+289,모든 게 싫어요,kr,Negative,Burnout,High,Self-Expression,losing interest,audio/kr/314.wav,No
+290,삶이 지긋지긋해요,kr,Negative,Tired of life,High,Self-Expression,mentally drained,audio/kr/315.wav,No
+291,我受够了,zh,Negative,Burnout,High,Self-Expression,mental shutdown,audio/zh/316.wav,No
+292,我真的累了,zh,Negative,Exhaustion,High,Self-Expression,common in depression,audio/zh/317.wav,No
+293,我快撑不住了,zh,Negative,Breakdown,High,Self-Expression,mental exhaustion,audio/zh/318.wav,No
+294,我对生活感到厌倦,zh,Negative,Life fatigue,High,Self-Expression,formal/accurate,audio/zh/319.wav,No
+295,Estoy en las nubes,es,Neutral,Distracted,Mild,Self-Expression,idiomatic,audio/es/320.wav,No
+296,Estoy en la luna,es,Neutral,Distracted,Mild,Self-Expression,idiomatic,audio/es/321.wav,No
+297,Estoy en otro mundo,es,Neutral,Absent,Moderate,Self-Expression,figurative,audio/es/322.wav,No
+298,Estoy ido / ida,es,Neutral,Zoned out,Mild,Self-Expression,informal,audio/es/323.wav,No
+299,멍 때리고 있어요,kr,Neutral,Zoned out,Mild,Self-Expression,slang/everyday,audio/kr/324.wav,No
+300,딴 생각하고 있었어요,kr,Neutral,Distracted,Mild,Self-Expression,polite casual,audio/kr/325.wav,No
+301,정신이 딴 데 가 있어요,kr,Neutral,Absent,Moderate,Self-Expression,literal everyday,audio/kr/326.wav,No
+302,꿈꾸는 것 같아요,kr,Neutral,Dreamy,Mild,Self-Expression,metaphor/poetic,audio/kr/327.wav,No
+303,我在神游,zh,Neutral,Zoned out,Mild,Self-Expression,daydreaming,audio/zh/328.wav,No
+304,我心不在焉,zh,Neutral,Absent,Moderate,Self-Expression,formal/descriptive,audio/zh/329.wav,No
+305,我走神了,zh,Neutral,Zoned out,Mild,Self-Expression,very common,audio/zh/330.wav,No
+306,我在发呆,zh,Neutral,Blank / Spaced,Mild,Self-Expression,direct/casual,audio/zh/331.wav,No
+307,Está bromeando,es,Positive,Humor,Mild,Social Interaction,everyday expression,audio/es/332.wav,No
+308,Está haciendo el payaso,es,Positive,Playful,Mild,Social Mood,slang/informal,audio/es/333.wav,No
+309,Está tonteando,es,Positive,Fooling around,Mild,Social Humor,casual,audio/es/335.wav,No
+310,장난치고 있어요,kr,Positive,Joking,Mild,Social Mood,very common,audio/kr/336.wav,No
+311,농담이에요,kr,Positive,Humor,Mild,Expression,neutral polite,audio/kr/337.wav,No
+312,장난이야,kr,Positive,Just kidding,Mild,Casual Interaction,friendly tone,audio/kr/338.wav,No
+313,웃기고 있네,kr,Positive,Funny (tease),Mild,Teasing / sarcasm,context-dependent,audio/kr/339.wav,No
+314,他在开玩笑,zh,Positive,Joking,Mild,Social Humor,standard,audio/zh/340.wav,No
+315,他在搞笑,zh,Positive,Humor,Mild,Playfulness,light joking,audio/zh/341.wav,No
+316,他在胡闹,zh,Positive,Clowning,Mild,Playful Humor,silly/informal,audio/zh/342.wav,No
+317,他在逗我玩,zh,Positive,Teasing,Mild,Friendly teasing,common friendly phrase,audio/zh/343.wav,No
+318,¡Demuéstrales!,es,Positive,Motivation,High,Encouragement,direct challenge,audio/es/344.wav,No
+319,¡Haz que se traguen sus palabras!,es,Positive,Defiance,High,Motivation,prove others wrong,audio/es/345.wav,No
+320,¡Que vean de lo que eres capaz!,es,Positive,Empowerment,High,Encouragement,motivational,audio/es/346.wav,No
+321,¡A callar bocas!,es,Positive,Confidence,High,Defiant Boost,urban/slang,audio/es/347.wav,No
+322,보여줘!,kr,Positive,Motivation,High,Encouragement,direct/common,audio/kr/348.wav,No
+323,네가 얼마나 대단한지 보여줘!,kr,Positive,Empowerment,High,Motivation,full sentence,audio/kr/349.wav,No
+324,입 다물게 해줘!,kr,Positive,Defiance,High,Challenge,slang,audio/kr/350.wav,No
+325,이길 수 있어!,kr,Positive,Encouragement,High,Supportive Boost,gentle/common,audio/kr/351.wav,No
+326,给他们看看！,zh,Positive,Motivation,High,Encouragement,common phrase,audio/zh/352.wav,No
+327,让他们闭嘴！,zh,Positive,Defiance,High,Empowerment,powerful slang,audio/zh/353.wav,No
+328,让他们看看你的实力！,zh,Positive,Confidence,High,Challenge,strength/power-focused,audio/zh/354.wav,No
+329,让他们知道你不是开玩笑的！,zh,Positive,Serious Intent,High,Encouragement,assertiveness,audio/zh/355.wav,No
+330,Me siento ahogado,es,Negative,Distress,High,Self-Expression,mental health,audio/es/356.wav,No
+331,Me siento atrapado,es,Negative,Distress,High,Emotional Expression,informal/common,audio/es/357.wav,No
+332,Estoy agobiado,es,Negative,Overwhelmed,Moderate,Emotional State,common usage,audio/es/358.wav,No
+333,No puedo más,es,Negative,Despair,High,Breakdown,informal/expressive,audio/es/359.wav,No
+334,숨막힐 것 같아,kr,Negative,Distress,High,Self-Expression,emotionally intense,audio/kr/360.wav,No
+335,답답해요,kr,Negative,Constrained,Moderate,Frustration,common usage,audio/kr/361.wav,No
+336,벗어나고 싶어요,kr,Negative,Trapped,High,Mental escape,emotionally overwhelmed,audio/kr/362.wav,No
+337,너무 힘들어요,kr,Negative,Overwhelmed,High,Burnout,informal and direct,audio/kr/363.wav,No
+338,感到窒息,zh,Negative,Distress,High,Emotional Pressure,formal tone,audio/zh/364.wav,No
+339,觉得被困住了,zh,Negative,Trapped,Moderate,Mental strain,descriptive,audio/zh/366.wav,No
+340,感觉压力好大,zh,Negative,Pressure,Moderate,Stress,informal,audio/zh/367.wav,No
+341,Tú puedes con eso y más,es,Positive,Confidence,High,Encouragement,empowering statement,audio/es/368.wav,No
+342,Eres más que capaz,es,Positive,Empowerment,High,Confidence Boost,common praise,audio/es/369.wav,No
+343,Tienes lo que se necesita,es,Positive,Empowerment,High,Supportive,everyday encouragement,audio/es/370.wav,No
+344,Vas sobrado/a,es,Positive,Confidence,High,Empowerment,slang/youth tone,audio/es/371.wav,No
+345,넌 충분히 할 수 있어!,kr,Positive,Empowerment,High,Encouragement,informal & strong,audio/kr/372.wav,No
+346,넌 최고야!,kr,Positive,Praise,High,Emotional Support,youthful praise,audio/kr/373.wav,No
+347,너라면 충분해!,kr,Positive,Confidence,High,Motivation,emotional tone,audio/kr/374.wav,No
+348,문제없어! 넌 해낼 거야!,kr,Positive,Empowerment,High,Support Boost,assuring/supportive,audio/kr/375.wav,No
+349,你一定可以的！,zh,Positive,Encouragement,High,Supportive Push,common praise,audio/zh/377.wav,No
+350,你太厉害了！,zh,Positive,Confidence,High,Praise,slang/casual,audio/zh/378.wav,No
+351,你有这个实力！,zh,Positive,Empowerment,High,Encouragement,strength recognition,audio/zh/379.wav,No
+352,Estoy bien,es,Neutral,Reassurance,Mild,Self-Expression,common expression,audio/es/380.wav,No
+353,Estoy tranquilo/a,es,Neutral,Calm,Mild,Inner peace,self-reflection,audio/es/382.wav,No
+354,No pasa nada,es,Neutral,Downplay,Mild,Emotional Guard,often hiding sadness,audio/es/383.wav,No
+355,괜찮아요,kr,Neutral,Reassurance,Mild,Self-Expression,common korean phrase,audio/kr/384.wav,No
+356,전 괜찮습니다,kr,Neutral,Reassurance,Mild,Self-Expression,formal tone,audio/kr/385.wav,No
+357,문제 없어요,kr,Neutral,Reassurance,Mild,Reassurance,calm and clear,audio/kr/386.wav,No
+358,다 괜찮아요,kr,Neutral,Calm,Mild,Comforting,everyday usage,audio/kr/387.wav,No
+359,我没事,zh,Neutral,Reassurance,Mild,Self-Expression,emotional response,audio/zh/388.wav,No
+360,我很好,zh,Neutral,Calm / Okay,Mild,Check-in,positive neutral,audio/zh/389.wav,No
+361,一切都好,zh,Neutral,Calm,Mild,Reassuring,peaceful confirmation,audio/zh/390.wav,No
+362,没关系,zh,Neutral,Comforting,Mild,Casual reply,often used by friends,audio/zh/391.wav,No
+363,Estoy aburrido/a,es,Negative,Boredom,Mild,Self-Expression,everyday complaint,audio/es/392.wav,No
+364,Estoy harto/a,es,Negative,Frustration,Moderate,Emotional vent,common venting phrase,audio/es/393.wav,No
+365,Estoy cansado/a de todo,es,Negative,Burnout,High,Emotional fatigue,mental overload,audio/es/395.wav,No
+366,지루해요,kr,Negative,Boredom,Mild,Self-Expression,common usage,audio/kr/396.wav,No
+367,짜증나요,kr,Negative,Annoyance,Moderate,Frustration,everyday tone,audio/kr/397.wav,No
+368,이젠 지쳤어요,kr,Negative,Exhaustion,High,Burnout,emotional drain,audio/kr/398.wav,No
+369,모든 게 싫어요,kr,Negative,Despair,High,Deep frustration,very emotionally charged,audio/kr/399.wav,No
+370,我很无聊,zh,Negative,Boredom,Mild,Self-Expression,common phrase,audio/zh/400.wav,No
+371,我受够了,zh,Negative,Frustration,Moderate,Emotional stress,strong tone,audio/zh/401.wav,No
+372,我对生活感到厌倦,zh,Negative,Hopelessness,High,Burnout,matches “زهقت من حياتي”,audio/zh/402.wav,No
+373,我快撑不住了,zh,Negative,Despair,High,Breakdown,cry for help,audio/zh/403.wav,No
+374,واقع في جلده من الخوف,ar,Negative,Fear,High,Self-Expression,egyptian slang,audio/ar/404.wav,Yes
+375,Muerto de miedo,es,Negative,Fear,High,Emotional state,common expression,audio/es/405.wav,No
+376,Temblando de miedo,es,Negative,Fear,High,Physical response,literal expression,audio/es/406.wav,No
+377,Cagado de miedo,es,Negative,Fear,High,Slang / shock,very informal,audio/es/407.wav,No
+378,겁에 질렸어요,kr,Negative,Fear,High,Emotional state,formal description,audio/kr/408.wav,No
+379,무서워 죽겠어요,kr,Negative,Fear,High,Informal panic,slang,audio/kr/409.wav,No
+380,덜덜 떨고 있어요,kr,Negative,Fear,High,Physical reaction,literal,audio/kr/410.wav,No
+381,我吓坏了,zh,Negative,Fear,High,Self-Expression,very common,audio/zh/412.wav,No
+382,我在发抖,zh,Negative,Fear,High,Physical panic,literal,audio/zh/413.wav,No
+383,害怕得要命,zh,Negative,Fear,High,Fearful reaction,strong phrase,audio/zh/414.wav,No
+384,طاير من الرعب,ar,Negative,Fear,High,Self-Expression,slang,audio/ar/415.wav,Yes
